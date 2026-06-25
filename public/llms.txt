@@ -1,0 +1,105 @@
+# King styles — Generative Engine Optimization Map
+
+> A men's fashion and streetwear clothing store focused on casual and athletic styles. The store carries popular brands and items including Nike Tech apparel, Nike Pro shoes, Bermuda shorts, jeans, and more. The vibe is sporty, urban, and trend-forward, targeting men who appreciate both comfort and style in everyday wear.
+
+---
+
+## Pages
+
+### בית
+https://king-styles-7896381d.zappy5.app
+חנות אופנת גברים מובילה עם מותגי סטריטוור ואתלטיקה כמו Nike Tech, ג&#39;ינסים וברמודות. כנסו עכשיו לגלות את הטרנדים הכי חמים ולקנות בגדי קז&#39;ואל וספורט אונליין.
+
+### הסיפור שלנו
+https://king-styles-7896381d.zappy5.app/brand-story
+צללו לעומק הסיפור של King styles, מותג אופנת הגברים שמוביל את תרבות הסטריטוור בישראל. למה אנחנו עושים את זה? גלו את התשוקה, החזון והמחויבות לסטייל אורבני וספורטיבי.
+
+### מדריך סגנון
+https://king-styles-7896381d.zappy5.app/style-guide
+רוצים לשלב בין נוחות לסטייל? מדריך הסגנון שלנו חושף את כל הסודות ללוק אורבני מושלם עם ג&#39;ינסים, ברמודות, נייקי טק ופריטי חובה נוספים. היכנסו וקבלו השראה.
+
+### צור קשר
+https://king-styles-7896381d.zappy5.app/contact
+יש שאלה על מידה, משלוח או טרנד חדש? צרו קשר עם צוות King styles עוד היום! אנחנו כאן כדי לעזור לכם למצוא את הלוק האורבני המושלם. נשמח לשמוע מכם.
+
+### Products
+https://king-styles-7896381d.zappy5.app/products
+המוצרים שלנו - King styles
+
+### Cart
+https://king-styles-7896381d.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://king-styles-7896381d.zappy5.app/checkout
+תשלום
+
+### Login
+https://king-styles-7896381d.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://king-styles-7896381d.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://king-styles-7896381d.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://king-styles-7896381d.zappy5.app/product/:slug
+פרטי המוצר - King styles
+
+### Category
+https://king-styles-7896381d.zappy5.app/category/:slug
+מוצרים - King styles
+
+### תודה על פנייתך
+https://king-styles-7896381d.zappy5.app/thank-you
+King styles - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://king-styles-7896381d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://king-styles-7896381d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://king-styles-7896381d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About King styles
+A men's fashion and streetwear clothing store focused on casual and athletic styles. The store carries popular brands and items including Nike Tech apparel, Nike Pro shoes, Bermuda shorts, jeans, and more. The vibe is sporty, urban, and trend-forward, targeting men who appreciate both comfort and style in everyday wear.
+
+## Target Audience
+- גברים
+- גברים צעירים מקצועיים
+- נערים חובבי אופנה
+- מנהלים עסקיים
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://king-styles-7896381d.zappy5.app/sitemap.xml
+- Robots: https://king-styles-7896381d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://king-styles-7896381d.zappy5.app/llms-full.txt
+- Products (JSON): https://king-styles-7896381d.zappy5.app/products.json
+- Products (Google Merchant RSS): https://king-styles-7896381d.zappy5.app/product-feed.xml
